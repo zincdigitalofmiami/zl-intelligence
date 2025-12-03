@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Step-by-step deployment checklist for U.S. Oil Solutions Intelligence Platform. Covers Vercel deployment, MotherDuck setup, Databento backfill, and environment variable configuration.",
+  "updatedAt": "2025-12-02T18:51:12.492684Z"
+}

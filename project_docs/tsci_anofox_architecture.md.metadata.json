@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Complete architectural documentation showing how TimeSeriesScientist orchestrates Anofox within DuckDB for the ZL Futures Forecasting System, including integration points, data flow, and implementation roadmap.",
+  "updatedAt": "2025-12-03T02:10:45.474074Z"
+}

@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Architectural guide defining the relationship between TimeSeriesScientist (TSci) and Anofox, detailing how the agentic orchestrator leverages the SQL-native engine for ZL futures forecasting.",
+  "updatedAt": "2025-12-03T01:05:26.227637Z"
+}

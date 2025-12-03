@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Technical notes and SQL patterns for DuckDB data ingestion and secrets management, based on official documentation research.",
+  "updatedAt": "2025-12-03T00:55:57.239844Z"
+}

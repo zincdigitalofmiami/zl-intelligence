@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Concept mapping from legacy CBI-V15 to new Next.js dashboard. Extracts Big 8 Drivers, feature concepts, and page purposes to enhance the existing DashdarkX/Lightweight Charts/MotherDuck architecture without copying legacy code.",
+  "updatedAt": "2025-12-02T18:05:48.578552Z"
+}
